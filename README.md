@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @chestnutcommunities
 - 👀 I’m interested in creating websites, web apps, mobile apps and games
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on TBC
-- 📫 How to reach me TBC
+- 🌱 I’m currently learning Angular, Firebase and Web 3.0
 
 <!---
 chestnutcommunities/chestnutcommunities is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
